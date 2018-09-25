@@ -5,7 +5,7 @@
 
 A representational, declarative dice component system for React apps.
 
-<img src="./docs/dice_roll_demo.gif" width="180" height="100" />
+<img src="./docs/dice_roll_demo.gif" width="200" height="100" style="object-fit: cover;"/>
 
 ## To Do
 
