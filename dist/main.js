@@ -197,7 +197,7 @@ eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _Die = __webpack_require__(/*! components/Die */ \"./src/components/Die.jsx\");\n\nvar _Die2 = _interopRequireDefault(_Die);\n\nvar _Dice = __webpack_require__(/*! interfaces/Dice */ \"./src/interfaces/Dice.js\");\n\nvar _Dice2 = _interopRequireDefault(_Dice);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nexports.default = {\n  Die: _Die2.default,\n  DiceInterface: _Dice2.default\n};\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.DiceInterface = exports.Die = undefined;\n\nvar _Die = __webpack_require__(/*! components/Die */ \"./src/components/Die.jsx\");\n\nvar _Die2 = _interopRequireDefault(_Die);\n\nvar _Dice = __webpack_require__(/*! interfaces/Dice */ \"./src/interfaces/Dice.js\");\n\nvar _Dice2 = _interopRequireDefault(_Dice);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nexports.Die = _Die2.default;\nexports.DiceInterface = _Dice2.default;\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 

@@ -1,6 +1,6 @@
 {
   "name": "@scriptless/dice",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "A representational, declarative dice component system for React apps.",
   "main": "./dist/main.js",
   "scripts": {
