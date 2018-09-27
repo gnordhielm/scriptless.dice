@@ -2,9 +2,11 @@
   "name": "@scriptless/dice",
   "version": "1.0.0-alpha.1",
   "description": "A representational, declarative dice component system for React apps.",
-  "main": "index.js",
+  "main": "./dist/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublishOnly": "yarn run dist",
+    "dist": "cross-env NODE_ENV=development webpack --config ./webpack.config.js --color",
+    "dev": "cross-env NODE_ENV=development webpack --config ./webpack.config.js --color --watch"
   },
   "repository": {
     "type": "git",
@@ -31,6 +33,16 @@
     "svg.js": "^2.6.6"
   },
   "peerDependencies": {
-    "react": "^16.5.2"
+    "react": "16.x"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "cross-env": "^5.2.0",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.0.8"
   }
 }

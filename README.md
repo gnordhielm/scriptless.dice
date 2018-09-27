@@ -18,7 +18,6 @@ This library provides two exports: `DiceInterface` and `Die`.
 
 `DiceInterface` takes care of rolling, animating, and rendering your dice. It's extremely configurable, but to get started, this is all you need:
 
-
 ```jsx
 
 class DiceContainer extends React.Component {
