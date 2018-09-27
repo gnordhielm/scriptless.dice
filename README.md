@@ -1,4 +1,4 @@
-<img src="./docs/under_construction_banner.png" width="325" />
+<img src="./docs/under_construction_banner.png" width="600" />
 
 # @scriptless/dice
 
