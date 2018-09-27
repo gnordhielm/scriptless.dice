@@ -1,6 +1,6 @@
 {
   "name": "@scriptless/dice",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.4",
   "description": "A representational, declarative dice component system for React apps.",
   "main": "./dist/main.js",
   "scripts": {
@@ -42,6 +42,10 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "cross-env": "^5.2.0",
+    "css-loader": "^1.0.0",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.0.3",
+    "style-loader": "^0.21.0",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.0.8"
   }

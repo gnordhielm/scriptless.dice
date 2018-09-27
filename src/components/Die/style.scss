@@ -1,0 +1,20 @@
+.die {
+  height: 100px;
+  width: 100px;
+  padding: 5px;
+  margin: 15px;
+  background: black;
+  
+  .pip {
+    fill: white;
+  }
+
+  & > .__animation-target {
+    height: 100%;
+    width: 100%;
+  }
+
+  &.--rolling {
+    opacity: 0.9;
+  }
+}
