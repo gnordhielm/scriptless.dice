@@ -1,3 +1,5 @@
+<img src="./docs/under_construction_banner.png" width="325" />
+
 # @scriptless/dice
 
 [![npm](https://img.shields.io/npm/dt/@scriptless/dice.svg?style=flat-square)](https://www.npmjs.com/package/@scriptless/dice)
@@ -5,7 +7,10 @@
 
 A representational, declarative dice component system for React apps.
 
-<img src="./docs/rolling.gif" width="200" />
+<img src="./docs/rolling.gif" width="325" />
+
+
+
 
 ## To Do
 

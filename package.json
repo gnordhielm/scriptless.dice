@@ -1,6 +1,6 @@
 {
   "name": "@scriptless/dice",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.0-alpha.1",
   "description": "A representational, declarative dice component system for React apps.",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,13 @@
   "bugs": {
     "url": "https://github.com/gnordhielm/scriptless.dice/issues"
   },
-  "homepage": "https://github.com/gnordhielm/scriptless.dice#readme"
+  "homepage": "https://github.com/gnordhielm/scriptless.dice#readme",
+  "dependencies": {
+    "@leiops/helpers": "^1.3.0",
+    "prop-types": "^15.6.2",
+    "svg.js": "^2.6.6"
+  },
+  "peerDependencies": {
+    "react": "^16.5.2"
+  }
 }
