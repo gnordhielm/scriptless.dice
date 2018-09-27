@@ -3,7 +3,8 @@ import React from 'react'
 import isDefined from 'utils/isDefined'
 import rollDie from 'utils/rollDie'
 import canDieExist from 'utils/canDieExist'
-import Die from 'components/Die'
+
+import Die from '../components/Die'
 
 // TO DO - think about why this doesn't feel like normal dice. When you're playing with normal dice, the last value can have an impact on the next value, as can the way you throw.
 
