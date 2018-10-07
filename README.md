@@ -1,14 +1,14 @@
 
 # @scriptless/dice
 
-<img src="./docs/under_construction_banner.png" width="600" />
+<img src="https://siteless.co/assets/image/5710239819104256" width="600" />
 
 [![npm](https://img.shields.io/npm/dt/@scriptless/dice.svg?style=flat-square)](https://www.npmjs.com/package/@scriptless/dice)
 [![npm](https://img.shields.io/npm/v/@scriptless/dice.svg?style=flat-square)](https://www.npmjs.com/package/@scriptless/dice)
 
 A representational, declarative dice component system for React apps.
 
-<img src="./docs/rolling.gif" width="325" />
+<img src="https://siteless.co/assets/image/5631986051842048" width="325" />
 
 ## Quick Start
 
