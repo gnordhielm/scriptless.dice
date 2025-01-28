@@ -1,3 +1,5 @@
+:no_entry: [DEPRECATED] Head over to https://github.com/siteless/react-dice instead
+
 
 # @scriptless/dice
 
