@@ -10,7 +10,7 @@
 
 A representational, declarative dice component system for React apps.
 
-<img src="https://siteless.co/assets/image/5631986051842048" width="325" />
+<img src="rolling.gif" width="325" />
 
 ## Quick Start
 
