@@ -3,8 +3,6 @@
 
 # @scriptless/dice
 
-<img src="https://siteless.co/assets/image/5710239819104256" width="600" />
-
 [![npm](https://img.shields.io/npm/dt/@scriptless/dice.svg?style=flat-square)](https://www.npmjs.com/package/@scriptless/dice)
 [![npm](https://img.shields.io/npm/v/@scriptless/dice.svg?style=flat-square)](https://www.npmjs.com/package/@scriptless/dice)
 
